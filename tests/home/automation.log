@@ -1,0 +1,120 @@
+03/18/2019 12:35:14 AM - SeleniumDriver - INFO : Element found with locator Login and LocatorType link_text
+03/18/2019 12:35:14 AM - SeleniumDriver - INFO : sent data on element with locator: Login locatorType : link_text
+03/18/2019 12:35:17 AM - SeleniumDriver - ERROR : Element not found with locator user_email and LocatorType id
+03/18/2019 12:35:17 AM - SeleniumDriver - ERROR : Cannot send keys to the element with locator: user_email locatorType : id
+03/18/2019 12:35:18 AM - SeleniumDriver - INFO : Element found with locator user_password and LocatorType id
+03/18/2019 12:35:18 AM - SeleniumDriver - INFO : keys sent to element with locator: user_password locatorType : id
+03/18/2019 12:35:18 AM - SeleniumDriver - INFO : Element found with locator commit and LocatorType name
+03/18/2019 12:35:21 AM - SeleniumDriver - INFO : sent data on element with locator: commit locatorType : name
+03/18/2019 12:35:21 AM - SeleniumDriver - INFO : Element found with locator //div[contains(text(),'Invalid email or password')] and LocatorType xpath
+03/18/2019 12:35:21 AM - SeleniumDriver - INFO : Element is present with locator //div[contains(text(),'Invalid email or password')] and locatorType xpath
+03/18/2019 12:35:24 AM - SeleniumDriver - ERROR : Element not found with locator Login and LocatorType link_text
+03/18/2019 12:35:24 AM - SeleniumDriver - ERROR : Cannot send data into the element with locator: Login locatorType : link_text
+03/18/2019 12:35:24 AM - SeleniumDriver - INFO : Element found with locator user_email and LocatorType id
+03/18/2019 12:35:24 AM - SeleniumDriver - INFO : keys sent to element with locator: user_email locatorType : id
+03/18/2019 12:35:24 AM - SeleniumDriver - INFO : Element found with locator user_password and LocatorType id
+03/18/2019 12:35:24 AM - SeleniumDriver - INFO : keys sent to element with locator: user_password locatorType : id
+03/18/2019 12:35:24 AM - SeleniumDriver - INFO : Element found with locator commit and LocatorType name
+03/18/2019 12:35:30 AM - SeleniumDriver - INFO : sent data on element with locator: commit locatorType : name
+03/18/2019 12:35:33 AM - SeleniumDriver - ERROR : Element not found with locator //span[text()='Test User'] and LocatorType xpath
+03/18/2019 12:35:33 AM - SeleniumDriver - ERROR : Element is not present with locator //span[text()='Test User'] and locatorType xpath
+03/18/2019 12:36:07 AM - SeleniumDriver - INFO : Element found with locator Login and LocatorType link_text
+03/18/2019 12:36:08 AM - SeleniumDriver - INFO : sent data on element with locator: Login locatorType : link_text
+03/18/2019 12:36:11 AM - SeleniumDriver - ERROR : Element not found with locator user_email and LocatorType id
+03/18/2019 12:36:11 AM - SeleniumDriver - ERROR : Cannot send keys to the element with locator: user_email locatorType : id
+03/18/2019 12:36:12 AM - SeleniumDriver - INFO : Element found with locator user_password and LocatorType id
+03/18/2019 12:36:12 AM - SeleniumDriver - INFO : keys sent to element with locator: user_password locatorType : id
+03/18/2019 12:36:12 AM - SeleniumDriver - INFO : Element found with locator commit and LocatorType name
+03/18/2019 12:36:14 AM - SeleniumDriver - INFO : sent data on element with locator: commit locatorType : name
+03/18/2019 12:36:14 AM - SeleniumDriver - INFO : Element found with locator //div[contains(text(),'Invalid email or password')] and LocatorType xpath
+03/18/2019 12:36:14 AM - SeleniumDriver - INFO : Element is present with locator //div[contains(text(),'Invalid email or password')] and locatorType xpath
+03/18/2019 12:36:17 AM - SeleniumDriver - ERROR : Element not found with locator Login and LocatorType link_text
+03/18/2019 12:36:17 AM - SeleniumDriver - ERROR : Cannot send data into the element with locator: Login locatorType : link_text
+03/18/2019 12:36:17 AM - SeleniumDriver - INFO : Element found with locator user_email and LocatorType id
+03/18/2019 12:36:17 AM - SeleniumDriver - INFO : keys sent to element with locator: user_email locatorType : id
+03/18/2019 12:36:17 AM - SeleniumDriver - INFO : Element found with locator user_password and LocatorType id
+03/18/2019 12:36:17 AM - SeleniumDriver - INFO : keys sent to element with locator: user_password locatorType : id
+03/18/2019 12:36:17 AM - SeleniumDriver - INFO : Element found with locator commit and LocatorType name
+03/18/2019 12:36:23 AM - SeleniumDriver - INFO : sent data on element with locator: commit locatorType : name
+03/18/2019 12:36:23 AM - SeleniumDriver - INFO : Element found with locator //span[text()='Test User'] and LocatorType xpath
+03/18/2019 12:36:23 AM - SeleniumDriver - INFO : Element is present with locator //span[text()='Test User'] and locatorType xpath
+03/18/2019 12:38:01 AM - SeleniumDriver - INFO : Element found with locator Login and LocatorType link_text
+03/18/2019 12:38:02 AM - SeleniumDriver - INFO : sent data on element with locator: Login locatorType : link_text
+03/18/2019 12:38:05 AM - SeleniumDriver - ERROR : Element not found with locator user_email and LocatorType id
+03/18/2019 12:38:05 AM - SeleniumDriver - ERROR : Cannot send keys to the element with locator: user_email locatorType : id
+03/18/2019 12:38:05 AM - SeleniumDriver - INFO : Element found with locator user_password and LocatorType id
+03/18/2019 12:38:05 AM - SeleniumDriver - INFO : keys sent to element with locator: user_password locatorType : id
+03/18/2019 12:38:06 AM - SeleniumDriver - INFO : Element found with locator commit and LocatorType name
+03/18/2019 12:38:07 AM - SeleniumDriver - INFO : sent data on element with locator: commit locatorType : name
+03/18/2019 12:38:07 AM - SeleniumDriver - INFO : Element found with locator //div[contains(text(),'Invalid email or password')] and LocatorType xpath
+03/18/2019 12:38:07 AM - SeleniumDriver - INFO : Element is present with locator //div[contains(text(),'Invalid email or password')] and locatorType xpath
+03/18/2019 12:38:10 AM - SeleniumDriver - ERROR : Element not found with locator Login and LocatorType link_text
+03/18/2019 12:38:10 AM - SeleniumDriver - ERROR : Cannot send data into the element with locator: Login locatorType : link_text
+03/18/2019 12:38:10 AM - SeleniumDriver - INFO : Element found with locator user_email and LocatorType id
+03/18/2019 12:38:10 AM - SeleniumDriver - INFO : keys sent to element with locator: user_email locatorType : id
+03/18/2019 12:38:10 AM - SeleniumDriver - INFO : Element found with locator user_password and LocatorType id
+03/18/2019 12:38:10 AM - SeleniumDriver - INFO : keys sent to element with locator: user_password locatorType : id
+03/18/2019 12:38:10 AM - SeleniumDriver - INFO : Element found with locator commit and LocatorType name
+03/18/2019 12:38:15 AM - SeleniumDriver - INFO : sent data on element with locator: commit locatorType : name
+03/18/2019 12:38:15 AM - SeleniumDriver - INFO : Element found with locator //span[text()='Test User'] and LocatorType xpath
+03/18/2019 12:38:15 AM - SeleniumDriver - INFO : Element is present with locator //span[text()='Test User'] and locatorType xpath
+03/18/2019 01:31:35 AM - SeleniumDriver - INFO : Element found with locator Login and LocatorType link_text
+03/18/2019 01:31:35 AM - SeleniumDriver - INFO : sent data on element with locator: Login locatorType : link_text
+03/18/2019 01:31:37 AM - SeleniumDriver - INFO : Element found with locator user_email and LocatorType id
+03/18/2019 01:31:37 AM - SeleniumDriver - INFO : keys sent to element with locator: user_email locatorType : id
+03/18/2019 01:31:37 AM - SeleniumDriver - INFO : Element found with locator user_password and LocatorType id
+03/18/2019 01:31:38 AM - SeleniumDriver - INFO : keys sent to element with locator: user_password locatorType : id
+03/18/2019 01:31:38 AM - SeleniumDriver - INFO : Element found with locator commit and LocatorType name
+03/18/2019 01:31:39 AM - SeleniumDriver - INFO : sent data on element with locator: commit locatorType : name
+03/18/2019 01:31:39 AM - SeleniumDriver - INFO : Element found with locator //div[contains(text(),'Invalid email or password')] and LocatorType xpath
+03/18/2019 01:31:39 AM - SeleniumDriver - INFO : Element is present with locator //div[contains(text(),'Invalid email or password')] and locatorType xpath
+03/18/2019 01:31:45 AM - SeleniumDriver - ERROR : Element not found with locator Login and LocatorType link_text
+03/18/2019 01:31:45 AM - SeleniumDriver - ERROR : Cannot send data into the element with locator: Login locatorType : link_text
+03/18/2019 01:31:45 AM - SeleniumDriver - INFO : Element found with locator user_email and LocatorType id
+03/18/2019 01:31:45 AM - SeleniumDriver - INFO : keys sent to element with locator: user_email locatorType : id
+03/18/2019 01:31:45 AM - SeleniumDriver - INFO : Element found with locator user_password and LocatorType id
+03/18/2019 01:31:45 AM - SeleniumDriver - INFO : keys sent to element with locator: user_password locatorType : id
+03/18/2019 01:31:45 AM - SeleniumDriver - INFO : Element found with locator commit and LocatorType name
+03/18/2019 01:31:49 AM - SeleniumDriver - INFO : sent data on element with locator: commit locatorType : name
+03/18/2019 01:31:49 AM - SeleniumDriver - INFO : Element found with locator //span[text()='Test User'] and LocatorType xpath
+03/18/2019 01:31:49 AM - SeleniumDriver - INFO : Element is present with locator //span[text()='Test User'] and locatorType xpath
+03/18/2019 01:35:55 AM - SeleniumDriver - INFO : Element found with locator Login and LocatorType link_text
+03/18/2019 01:35:55 AM - SeleniumDriver - INFO : sent data on element with locator: Login locatorType : link_text
+03/18/2019 01:35:59 AM - SeleniumDriver - INFO : Element found with locator user_email and LocatorType id
+03/18/2019 01:35:59 AM - SeleniumDriver - INFO : keys sent to element with locator: user_email locatorType : id
+03/18/2019 01:35:59 AM - SeleniumDriver - INFO : Element found with locator user_password and LocatorType id
+03/18/2019 01:35:59 AM - SeleniumDriver - INFO : keys sent to element with locator: user_password locatorType : id
+03/18/2019 01:35:59 AM - SeleniumDriver - INFO : Element found with locator commit and LocatorType name
+03/18/2019 01:36:01 AM - SeleniumDriver - INFO : sent data on element with locator: commit locatorType : name
+03/18/2019 01:36:01 AM - SeleniumDriver - INFO : Element found with locator //div[contains(text(),'Invalid email or password')] and LocatorType xpath
+03/18/2019 01:36:01 AM - SeleniumDriver - INFO : Element is present with locator //div[contains(text(),'Invalid email or password')] and locatorType xpath
+03/18/2019 01:36:06 AM - SeleniumDriver - ERROR : Element not found with locator Login and LocatorType link_text
+03/18/2019 01:36:06 AM - SeleniumDriver - ERROR : Cannot send data into the element with locator: Login locatorType : link_text
+03/18/2019 01:36:06 AM - SeleniumDriver - INFO : Element found with locator user_email and LocatorType id
+03/18/2019 01:36:06 AM - SeleniumDriver - INFO : keys sent to element with locator: user_email locatorType : id
+03/18/2019 01:36:06 AM - SeleniumDriver - INFO : Element found with locator user_password and LocatorType id
+03/18/2019 01:36:06 AM - SeleniumDriver - INFO : keys sent to element with locator: user_password locatorType : id
+03/18/2019 01:36:06 AM - SeleniumDriver - INFO : Element found with locator commit and LocatorType name
+03/18/2019 01:36:12 AM - SeleniumDriver - INFO : sent data on element with locator: commit locatorType : name
+03/18/2019 01:36:12 AM - SeleniumDriver - INFO : Element found with locator //span[text()='Test User'] and LocatorType xpath
+03/18/2019 01:36:12 AM - SeleniumDriver - INFO : Element is present with locator //span[text()='Test User'] and locatorType xpath
+03/18/2019 01:39:52 AM - SeleniumDriver - INFO : Element found with locator Login and LocatorType link_text
+03/18/2019 01:39:53 AM - SeleniumDriver - INFO : sent data on element with locator: Login locatorType : link_text
+03/18/2019 01:39:55 AM - SeleniumDriver - INFO : Element found with locator user_email and LocatorType id
+03/18/2019 01:39:55 AM - SeleniumDriver - INFO : keys sent to element with locator: user_email locatorType : id
+03/18/2019 01:39:56 AM - SeleniumDriver - INFO : Element found with locator user_password and LocatorType id
+03/18/2019 01:39:56 AM - SeleniumDriver - INFO : keys sent to element with locator: user_password locatorType : id
+03/18/2019 01:39:56 AM - SeleniumDriver - INFO : Element found with locator commit and LocatorType name
+03/18/2019 01:39:57 AM - SeleniumDriver - INFO : sent data on element with locator: commit locatorType : name
+03/18/2019 01:39:57 AM - SeleniumDriver - INFO : Element found with locator //div[contains(text(),'Invalid email or password')] and LocatorType xpath
+03/18/2019 01:39:57 AM - SeleniumDriver - INFO : Element is present with locator //div[contains(text(),'Invalid email or password')] and locatorType xpath
+03/18/2019 01:40:03 AM - SeleniumDriver - ERROR : Element not found with locator Login and LocatorType link_text
+03/18/2019 01:40:03 AM - SeleniumDriver - ERROR : Cannot send data into the element with locator: Login locatorType : link_text
+03/18/2019 01:40:03 AM - SeleniumDriver - INFO : Element found with locator user_email and LocatorType id
+03/18/2019 01:40:03 AM - SeleniumDriver - INFO : keys sent to element with locator: user_email locatorType : id
+03/18/2019 01:40:03 AM - SeleniumDriver - INFO : Element found with locator user_password and LocatorType id
+03/18/2019 01:40:03 AM - SeleniumDriver - INFO : keys sent to element with locator: user_password locatorType : id
+03/18/2019 01:40:03 AM - SeleniumDriver - INFO : Element found with locator commit and LocatorType name
+03/18/2019 01:40:10 AM - SeleniumDriver - INFO : sent data on element with locator: commit locatorType : name
+03/18/2019 01:40:10 AM - SeleniumDriver - INFO : Element found with locator //span[text()='Test User'] and LocatorType xpath
+03/18/2019 01:40:10 AM - SeleniumDriver - INFO : Element is present with locator //span[text()='Test User'] and locatorType xpath
